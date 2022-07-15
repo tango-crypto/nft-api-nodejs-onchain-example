@@ -1,0 +1,22 @@
+{
+  "name": "nft-api-nodejs-onchain-example",
+  "version": "1.0.0",
+  "description": "Nodejs on-chain images example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tango-crypto/nft-api-nodejs-onchain-example.git"
+  },
+  "author": "Tangocrypto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tango-crypto/nft-api-nodejs-onchain-example/issues"
+  },
+  "homepage": "https://github.com/tango-crypto/nft-api-nodejs-onchain-example#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
