@@ -12,4 +12,4 @@ node app.js
 ```
 
 
-You can take the payment links and paste it on a browser and buy the token throught Tangopay. 
+You can take the payment links and paste it on a browser and buy the token throught Tangopay. Here you can see a video of how it works https://www.youtube.com/watch?v=UXNc8a2ln94
