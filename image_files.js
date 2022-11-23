@@ -472,6 +472,11 @@ const salePhase = {
     "quantity": 2,
     "supply": 1,
     "price": 20000000
+    "price": {
+       "ADA": {
+          "amount": 60000000
+        }
+     }
   }]
 };
 
